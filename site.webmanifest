@@ -1,0 +1,17 @@
+{
+  "name": "Ice Refrigeração — Assistência Técnica Linha Branca",
+  "short_name": "Ice Refrigeração",
+  "description": "Conserto de geladeiras, lavadoras, freezers e motores em domicílio em Samambaia, Brasília e DF.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071527",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
